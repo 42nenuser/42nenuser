@@ -1,6 +1,12 @@
+## Organizations I'm Part Of
 
-part of  [42 network]([https://www.42network.org/]) 
- [UM6P](https://um6p.ma/) 
+- [Open Science Initiative](https://openscience.org) | [Twitter 🐦](https://twitter.com/OpenScienceOrg)  
+- [Tech for Good](https://techforgood.org) | [Twitter 🐦](https://twitter.com/TechForGood)
+
+### Clickable Logos:
+
+[![Open Science Initiative](https://openscience.org/logo.png)](https://openscience.org)  
+[![Tech for Good](https://techforgood.org/logo.png)](https://techforgood.org)
 
 
 # 💻 Tech Stack:
