@@ -1,5 +1,5 @@
 
-part of  [42 network]([https://example.org](https://www.42network.org/)) 
+part of  [42 network]([https://www.42network.org/]) 
  [UM6P](https://um6p.ma/) 
 
 
