@@ -1,7 +1,7 @@
  Part Of
 
 - [42 network](https://www.42network.org/) | [Twitter 🐦](https://x.com/42Network)  
-- [Tech for Good](https://um6p.ma/) | [Twitter 🐦](https://x.com/UM6P_officiel)
+- [UM6P](https://um6p.ma/) | [Twitter 🐦](https://x.com/UM6P_officiel)
 
 
 
