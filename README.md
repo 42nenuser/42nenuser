@@ -1,7 +1,12 @@
- Part Of
+## Part Of
 
-- [42 network](https://www.42network.org/) | [Twitter 🐦](https://x.com/42Network)  
-- [UM6P](https://um6p.ma/) | [Twitter 🐦](https://x.com/UM6P_officiel)
+- ![42 Network Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg)  
+  [42 network](https://www.42network.org/) |  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/42Network)  
+
+- ![UM6P Logo](https://um6p.ma/sites/default/files/inline-images/Logo-UM6P_0.png)  
+  [UM6P](https://um6p.ma/) |  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/UM6P_officiel)
 
 
 
