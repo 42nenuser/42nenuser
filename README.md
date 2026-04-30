@@ -1,6 +1,6 @@
 Part Of
 
-- [42 network](https://www.42network.org/) | [Twitter 🐦](https://x.com/42Network)  
+
 - [UM6P](https://um6p.ma/) | [Twitter 🐦](https://x.com/UM6P_officiel)
 
 
